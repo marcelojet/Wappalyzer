@@ -3814,6 +3814,16 @@
 			"implies": "Canon",
 			"website": "http://canon.com"
 		},
+		"JET e-Business": {
+			"cats": [
+				"6"
+			],
+			"headers": {
+				"powered": "JET"
+			},
+			"icon": "jetebusiness.png",
+			"website": "http://www.jet.com.br"
+		},
 		"JS Charts": {
 			"cats": [
 				"25"
